@@ -8,13 +8,7 @@
 
 This repository serves as a collective campus biodiversity inventory, documenting the flora and fauna observed across various locations within the SNUC campus. A total of **31 species** (21 Flora + 10 Fauna) were recorded during the biodiversity survey.
 
-## Group Members
 
-- Nihitha Srinivasan (25011102065)
-- Pranesh J S (25011102076)
-- Sherine Joanna (25011102096)
-- Shubhaangi Jha (25011102097)
-- Vaishali V (25011102111)
 
 ## Repository Structure
 
