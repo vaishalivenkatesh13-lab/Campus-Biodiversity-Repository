@@ -8,4 +8,4 @@
 
 ## Photograph
 
-![Common Picture Wing](CommonPictureWing.png)
+![Common Picture Wing](CommonPictureWing.PNG)
