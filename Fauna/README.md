@@ -22,7 +22,7 @@ This folder documents the **10 animal species** observed during the campus biodi
 | 14    | [Microbat](Microbat/)  | *Pipistrellus sp.*         | Mammal      | Clock Tower                |
 | 15    | [Myna](Myna/)  | *Acridotheres tristis*         | Bird      | Near Aswins                |
 | 16    | [Oriental Garden Lizard](Oriental_Garden_Lizard/)  | *Calotes versicolor*         | Reptile      | EEE Road                |
-
+| 17 | [Two-Spotted Assassin Bug](Two_Spotted_Assasin_Bug/) | *Acanthaspis petax* | Insect | Library |
 
 
 ## Summary by Category
