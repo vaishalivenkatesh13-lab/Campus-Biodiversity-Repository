@@ -1,10 +1,10 @@
 # Oriental Garden Lizard
 
-**Common Name: **Oriental Garden Lizard
+**Common Name:** Oriental Garden Lizard
 
-**Scientific Name: **Calotes versicolor 
+**Scientific Name:** Calotes versicolor 
 
-**Type: **Reptile
+**Type:** Reptile
 
 **Location:** EEE Road
 
