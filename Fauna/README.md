@@ -18,6 +18,11 @@ This folder documents the **10 animal species** observed during the campus biodi
 | 10    | [Red-Cotton Stainer](Red_Cotton_Stainer/)  | *Dysdercus cingulatus*         | Insect      | Ladies Hostel                |
 | 11    | [Common Picture Wing](Common_Picture_Wing/)  | *Rhyothemis variegata*         | Insect      | AB1                |
 | 12    | [Indian Black And Red Millepede](Indian_Black_And_Red_Millipede/)  | *Xenobolus Carnifex*         | Insect      | Ladies Hostel 6               |
+| 13    | [Indian Peafowl](Indian_Peafowl/)  | *Pavo cristatus*         | Bird      | Near Main Entrance                |
+| 14    | [Microbat](Microbat/)  | *Pipistrellus sp.*         | Mammal      | Clock Tower                |
+| 15    | [Myna](Myna/)  | *Acridotheres tristis*         | Bird      | Near Aswins                |
+| 16    | [Oriental Garden Lizard](Oriental_Garden_Lizard/)  | *Calotes versicolor*         | Reptile      | EEE Road                |
+
 
 
 ## Summary by Category
