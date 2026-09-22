@@ -6,7 +6,7 @@
 
 ## About
 
-This repository serves as a collective campus biodiversity inventory, documenting the flora and fauna observed across various locations within the SNUC campus. A total of **50 species** (33 Flora + 17 Fauna) were recorded during the biodiversity survey.
+This repository serves as a collective campus biodiversity inventory, documenting the flora and fauna observed across various locations within the SNUC campus. A total of **49 species** (32 Flora + 17 Fauna) were recorded during the biodiversity survey.
 
 
 
@@ -14,7 +14,7 @@ This repository serves as a collective campus biodiversity inventory, documentin
 
 ```
 Campus-Biodiversity-Repository/
-├── Flora/                  # 33 plant species
+├── Flora/                  # 32 plant species
 │   ├── Giant_Spider_Lily/
 │   ├── Jungle_Geranium/
 │   ├── Bougainvillea/
@@ -87,16 +87,16 @@ Each species folder contains:
 
 | Category        | Count  |
 |-----------------|--------|
-| Herbs           | 9      |
+| Herbs           | 10     |
 | Shrubs          | 9      |
 | Climbers        | 2      |
-| Trees           | 13     |
+| Trees           | 11     |
 | Butterflies     | 1      |
 | Crustaceans     | 1      |
 | Mammals         | 4      |
-| Birds           | 2      |
+| Birds           | 3      |
 | Amphibians      | 1      |
 | Reptiles        | 2      |
-| Insects         | 3      |
-| **Total**       | **50** |
+| Insects         | 5      |
+| **Total**       | **49** |
 
