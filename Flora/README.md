@@ -1,6 +1,6 @@
 # Flora
 
-This folder documents the **21 plant species** observed during the campus biodiversity survey at Shiv Nadar University Chennai, Kalavakkam.
+This folder documents the **32 plant species** observed during the campus biodiversity survey at Shiv Nadar University Chennai, Kalavakkam.
 
 ## Species Inventory
 
