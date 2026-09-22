@@ -10,4 +10,6 @@ Location: Near SnowCube
 
 Habitat: Lowland tropical dry-to-moist forests and river banks
 
+Photograph:
+
 <img width="382" height="497" alt="Rosy Trumpet Tree" src="https://github.com/user-attachments/assets/5e196077-68c1-4baa-b7ed-a849483b1a3b" />
