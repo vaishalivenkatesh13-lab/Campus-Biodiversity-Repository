@@ -1,4 +1,4 @@
-#Two-Spotted Assassin Bug
+# Two-Spotted Assassin Bug
 
 **Common Name:** Two-Spotted Assassin Bug
 
