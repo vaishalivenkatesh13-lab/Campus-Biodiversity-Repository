@@ -1,3 +1,6 @@
+#Indian_Peafowl
+
+
 Common Name: Indian Peafowl
 
 Scientific Name: Pavo cristatus
@@ -8,7 +11,12 @@ Location: Near Main Entance
 
 Habitat: Typically found foraging on the ground in open forests, scrublands, or agricultural areas across the Indian subcontinent.
 
-Photograph
-<img width="225" height="155" alt="WhatsApp Image 2026-09-22 at 20 20 12" src="https://github.com/user-attachments/assets/2d2e05e9-0999-4c76-9cf4-d6cadb165a66" />
+##Photograph
+<img width="225" height="155" alt="Indian_Peafowl" src="https://github.com/user-attachments/assets/c2ada6f8-c03e-4359-a23b-f8f89b5983f2" />
+
+
+
+
+
 
 
