@@ -16,6 +16,8 @@ This folder documents the **10 animal species** observed during the campus biodi
 | 8     | [Snake](Snake/)                            | *Serpentus*                    | Reptile     | Ladies Hostel                |
 | 9     | [Beetle](Beetle/)                          | *Coleoptera*                   | Insect      | AB3 Entrance                 |
 | 10    | [Red-Cotton Stainer](Red_Cotton_Stainer/)  | *Dysdercus cingulatus*         | Insect      | Ladies Hostel                |
+| 11    | [Common Picture Wing](Common_Picture_Wing/)  | *Rhyothemis variegata*         | Insect      | AB1                |
+
 
 ## Summary by Category
 
@@ -27,5 +29,5 @@ This folder documents the **10 animal species** observed during the campus biodi
 | Birds           | 3      |
 | Amphibians      | 1      |
 | Reptiles        | 2      |
-| Insects         | 5      |
+| Insects         | 6      |
 | **Total**       | **17** |
