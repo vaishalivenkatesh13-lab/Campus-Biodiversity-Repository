@@ -6,7 +6,7 @@
 
 ## About
 
-This repository serves as a collective campus biodiversity inventory, documenting the flora and fauna observed across various locations within the SNUC campus. A total of **31 species** (21 Flora + 10 Fauna) were recorded during the biodiversity survey.
+This repository serves as a collective campus biodiversity inventory, documenting the flora and fauna observed across various locations within the SNUC campus. A total of **50 species** (33 Flora + 17 Fauna) were recorded during the biodiversity survey.
 
 
 
