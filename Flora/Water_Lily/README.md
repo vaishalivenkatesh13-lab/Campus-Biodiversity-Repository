@@ -1,17 +1,17 @@
-Water Lily
+# Water Lily
 
-Common Name: Water Lily
+**Common Name:** Water Lily
 
-Scientific Name: Nymphaeaceae
+**Scientific Name:** Nymphaeaceae
 
-Type: Herb
+**Type:** Herb
 
-Location: Clock Tower
+**Location:** Clock Tower
 
-Habitat: Inhabit still or slow-moving freshwater environments, such as ponds, lakes, marshes, and ditches.
+**Habitat:** Inhabit still or slow-moving freshwater environments, such as ponds, lakes, marshes, and ditches.
 
 
-Photograph:
+## Photograph:
 
 
 <img width="170" height="202" alt="Screenshot 2026-09-22 201839" src="https://github.com/user-attachments/assets/1d058128-3f81-4427-a9c7-835809dba47b" />
