@@ -38,7 +38,7 @@ Campus-Biodiversity-Repository/
 │   |── Beach_Spider_Lily/
 │   ├── White_Rain_Lily/
 │   ├── Peacock_Flower/
-│   ├── Water_Lity/
+│   ├── Water_Lily/
 │   ├── Sausage_Tree/
 │   ├── Rosy_Trumpet_Tree/
 │   ├── Summer_Snapdragon/
