@@ -1,12 +1,11 @@
-#**Beach Spider Lily**
+# Common Picture Wing
+
 **Common Name:** Common Picture Wing Dragonfly
-
-**Scientific Name:** Rhyothemis variegata
-
+**Scientific Name:** *Rhyothemis variegata*
 **Category:** Insect
-
 **Location:** AB1
-
 **Habitat:** Frequently found near marshes, ponds, lakes, and paddy fields across South and Southeast Asia.
 
-##**Photograph**
+## Photograph
+
+![Common Picture Wing](CommonPictureWing.png)
