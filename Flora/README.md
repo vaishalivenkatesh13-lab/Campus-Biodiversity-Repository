@@ -27,6 +27,13 @@ This folder documents the **21 plant species** observed during the campus biodiv
 | 19    | [Kamini](Kamini/)                                     | *Murraya paniculata (L.) Jack*               | Shrub     | Ladies Hostel |
 | 20    | [Silk Tree](Silk_Tree/)                               | *Albizia julibrissin Durazz.*                | Tree      | Ladies Hostel |
 | 21    | [Beach Spider Lily](Beach_Spider_Lily/)               | *Hymenocallis littoralis (Jacq.) Salisb.*    | Herb      | Ladies Hostel |
+| 22    | [White Rain Lily](White_Rain_Lily/)                   | *Zephyranthes candida*                       | Herb      | AB1 Entrance  |
+| 23    | [Peacock Flower](Peacock_Flower/)                     | *Caesalpinia pulcherrima*                    | Herb      | Ladies Hostel |
+| 24    | [Water Lily](Water_Lily/)                             | *Nymphaeaceae*                               | Herb      | Clock Tower   |
+| 25    | [Sausage Tree](Sausage_Tree/)                         | *Kigelia Africana *                          | Tree      | Main Canteen  |
+| 26    | [Rosy Trumpet Tree](Rosy_Trumpet_Tree/)               | *Tabebuia Rosea *                            | Tree      | Snow Cube     |
+
+
 
 ## Summary by Category
 
