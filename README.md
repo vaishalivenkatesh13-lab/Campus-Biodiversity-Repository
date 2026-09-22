@@ -60,7 +60,7 @@ Campus-Biodiversity-Repository/
 │   ├── Beetle/
 │   |── Red_Cotton_Stainer/
 |   ├── Dragonfly/
-│   ├── Peacock/
+│   ├── Indian_Peafowl/
 │   ├── Indian_Black_And_Red_Millipede/
 |   ├── Myna/
 │   ├── Microbat/
