@@ -30,10 +30,14 @@ This folder documents the **21 plant species** observed during the campus biodiv
 | 22    | [White Rain Lily](White_Rain_Lily/)                   | *Zephyranthes candida*                       | Herb      | AB1 Entrance  |
 | 23    | [Peacock Flower](Peacock_Flower/)                     | *Caesalpinia pulcherrima*                    | Herb      | Ladies Hostel |
 | 24    | [Water Lily](Water_Lily/)                             | *Nymphaeaceae*                               | Herb      | Clock Tower   |
-| 25    | [Sausage Tree](Sausage_Tree/)                         | *Kigelia Africana *                          | Tree      | Main Canteen  |
-| 26    | [Rosy Trumpet Tree](Rosy_Trumpet_Tree/)               | *Tabebuia Rosea *                            | Tree      | Snow Cube     |
-
-
+| 25    | [Sausage Tree](Sausage_Tree/)                         | *Kigelia Africana*                          | Tree      | Main Canteen  |
+| 26    | [Rosy Trumpet Tree](Rosy_Trumpet_Tree/)               | *Tabebuia Rosea*                            | Tree      | Snow Cube     |
+| 27 | [Creeping Daisy](Creeping_Daisy/) | *Sphagneticola trilobata* | Herb | Clock Tower |
+| 28 | [Devil's Tree](Devils_Tree/) | *Alstonia scholaris* | Tree | On the way to Open Air Theater from Rishabs |
+| 29 | [Foxtail Fern](Foxtail_Fern/) | *Asparagus densiflorus* | Herb | AB 3 Near Library |
+| 30 | [Golden Dewdrop](Golden_Dewdrop/) | *Duranta erecta* | Shrub | SSN Fountain |
+| 31 | [Sago Palm](Sago_Palm/) | *Cycas revoluta* | Tree | Clock Tower |
+| 32 | [Summer Snapdragon](Summer_Snapdragon/) | *Angelonia angustifolia* | Herb | Clock Tower |
 
 ## Summary by Category
 
