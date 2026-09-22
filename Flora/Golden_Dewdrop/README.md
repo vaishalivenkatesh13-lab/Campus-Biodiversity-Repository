@@ -1,15 +1,15 @@
-Golden Dewdrop
+# Golden Dewdrop
 
-Common Name: Golden Dewdrop
+**Common Name:** Golden Dewdrop
 
-Scientific Name: Duranta erecta 
+**Scientific Name:** Duranta erecta 
 
-Type: Shrub
+**Type:** Shrub
 
-Location: SSN Fountain
+**Location:** SSN Fountain
 
-Habitat: Dense ornamental shrub used for hedges and borders. Grows well in full sun and moderately moist, well-drained soil.
+**Habitat:** Dense ornamental shrub used for hedges and borders. Grows well in full sun and moderately moist, well-drained soil.
 
-Photograph:
+## Photograph:
 
 <img width="382" height="675" alt="image" src="https://github.com/user-attachments/assets/cb914607-e35f-441e-96c2-f6433c368a98" />
