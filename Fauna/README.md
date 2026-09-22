@@ -1,6 +1,6 @@
 # Fauna
 
-This folder documents the **10 animal species** observed during the campus biodiversity survey at Shiv Nadar University Chennai, Kalavakkam.
+This folder documents the **17 animal species** observed during the campus biodiversity survey at Shiv Nadar University Chennai, Kalavakkam.
 
 ## Species Inventory
 
