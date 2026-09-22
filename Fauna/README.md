@@ -24,8 +24,8 @@ This folder documents the **10 animal species** observed during the campus biodi
 | Butterflies     | 1      |
 | Crustaceans     | 1      |
 | Mammals         | 4      |
-| Birds           | 2      |
+| Birds           | 3      |
 | Amphibians      | 1      |
 | Reptiles        | 2      |
 | Insects         | 5      |
-| **Total**       | **10** |
+| **Total**       | **17** |
