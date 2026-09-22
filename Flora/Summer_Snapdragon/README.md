@@ -1,4 +1,4 @@
-<img width="390" height="572" alt="Screenshot 2026-09-22 203031" src="https://github.com/user-attachments/assets/5650dcd2-75dd-4374-842a-834529e7e84f" />Summer Snapdragon
+Summer Snapdragon
 
 Common Name: Summer Snapdragon
 
