@@ -17,6 +17,7 @@ This folder documents the **10 animal species** observed during the campus biodi
 | 9     | [Beetle](Beetle/)                          | *Coleoptera*                   | Insect      | AB3 Entrance                 |
 | 10    | [Red-Cotton Stainer](Red_Cotton_Stainer/)  | *Dysdercus cingulatus*         | Insect      | Ladies Hostel                |
 | 11    | [Common Picture Wing](Common_Picture_Wing/)  | *Rhyothemis variegata*         | Insect      | AB1                |
+| 12    | [Indian Black And Red Millepede](Indian_Black_And_Red_Millipede/)  | *Xenobolus Carnifex*         | Insect      | Ladies Hostel 6               |
 
 
 ## Summary by Category
