@@ -43,8 +43,8 @@ This folder documents the **21 plant species** observed during the campus biodiv
 
 | Category    | Count  |
 |-------------|--------|
-| Herbs       | 4      |
-| Shrubs      | 8      |
+| Herbs       | 10     |
+| Shrubs      | 9      |
 | Climbers    | 2      |
-| Trees       | 7      |
-| **Total**   | **21** |
+| Trees       | 11     |
+| **Total**   | **32** |
