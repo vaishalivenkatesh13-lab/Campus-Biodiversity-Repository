@@ -14,7 +14,7 @@ This repository serves as a collective campus biodiversity inventory, documentin
 
 ```
 Campus-Biodiversity-Repository/
-├── Flora/                  # 21 plant species
+├── Flora/                  # 33 plant species
 │   ├── Giant_Spider_Lily/
 │   ├── Jungle_Geranium/
 │   ├── Bougainvillea/
@@ -35,8 +35,20 @@ Campus-Biodiversity-Repository/
 │   ├── Tridax_Daisy/
 │   ├── Kamini/
 │   ├── Silk_Tree/
-│   └── Beach_Spider_Lily/
-├── Fauna/                  # 10 animal species
+│   |── Beach_Spider_Lily/
+│   ├── White_Rain_Lily/
+│   ├── Peacock_Flower/
+│   ├── Water_Lity/
+│   ├── Sausage_Tree/
+│   ├── Rosy_Trumpet_Tree/
+│   ├── Summer_Snapdragon/
+│   ├── Sago_Palm/
+│   ├── Devil's_Tree/
+│   ├── Golden_Dewdrop/
+│   ├── Red_Frangipani/
+│   ├── Foxtail_Fern/
+│   └── Creeping_Daisy/
+├── Fauna/                  # 17 animal species
 │   ├── Mormon_Butterfly/
 │   ├── Crab/
 │   ├── Cat/
@@ -46,7 +58,14 @@ Campus-Biodiversity-Repository/
 │   ├── Toad/
 │   ├── Snake/
 │   ├── Beetle/
-│   └── Red_Cotton_Stainer/
+│   |── Red_Cotton_Stainer/
+|   ├── Dragonfly/
+│   ├── Peacock/
+│   ├── Indian_Black_And_Red_Millipede/
+|   ├── Myna/
+│   ├── Microbat/
+│   ├── Two_Spotted_Assasin_Bug/
+│   └── Oriental_Garden_Lizard/
 └── README.md
 ```
 
@@ -68,16 +87,16 @@ Each species folder contains:
 
 | Category        | Count  |
 |-----------------|--------|
-| Herbs           | 4      |
-| Shrubs          | 8      |
+| Herbs           | 9      |
+| Shrubs          | 9      |
 | Climbers        | 2      |
-| Trees           | 7      |
+| Trees           | 13     |
 | Butterflies     | 1      |
 | Crustaceans     | 1      |
-| Mammals         | 3      |
-| Birds           | 1      |
+| Mammals         | 4      |
+| Birds           | 2      |
 | Amphibians      | 1      |
-| Reptiles        | 1      |
-| Insects         | 2      |
-| **Total**       | **31** |
+| Reptiles        | 2      |
+| Insects         | 3      |
+| **Total**       | **50** |
 
