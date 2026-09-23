@@ -12,4 +12,4 @@ Habitat: Campus habitat
 
 ## Photograph
 
-<img src="./Plumeria.jpeg" alt="Plumeria">
+<img src="./plannetia.jpeg" alt="Plumeria">
