@@ -10,4 +10,6 @@ Habitat: Campus habitat
 
 Location: Gents Hostel
 
+## Photograph
 
+<img src="./snake.jpeg" alt="Rat Snake">
