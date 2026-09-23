@@ -12,4 +12,4 @@ Habitat: Campus habitat
 
 ## Photograph
 
-<img src="./Rain_Tree.jpeg" alt="Rain Tree">
+<img src="./raintree.jpeg" alt="Rain Tree">
