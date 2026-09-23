@@ -12,4 +12,4 @@ Habitat: Campus habitat
 
 ## Photograph
 
-<img src="./Curry_Leaf.jpeg" alt="Curry Leaf">
+<img src="./Curryleave.jpeg" alt="Curry Leaf">
