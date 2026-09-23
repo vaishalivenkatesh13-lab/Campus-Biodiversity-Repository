@@ -1,8 +1,8 @@
-# Black Olive Tree
+# Umbrella Tree
 
-Common Name: Black Olive Tree
+Common Name:Madagascar Almond or Umbrella Tree
 
-Scientific Name: Bucida buceras
+Scientific Name: Terminalia mantaly
 
 Category: Plant
 
