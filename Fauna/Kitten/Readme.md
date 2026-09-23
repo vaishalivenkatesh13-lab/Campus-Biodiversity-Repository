@@ -1,6 +1,6 @@
-# Domestic Cat
+# Kitten
 
-Common Name: Domestic Cat
+Common Name: Kitten
 
 Scientific Name: Felis catus
 
