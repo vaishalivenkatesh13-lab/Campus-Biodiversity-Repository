@@ -6,6 +6,3 @@
 *Location:* Fountain  
 *Habitat:* Open grassy areas  
 
-## Photograph
-
-![Bermuda Grass](./Bermuda.png)
